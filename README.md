@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Melki Amen Allah</h1>
-<h3 align="center">A passionate embedded developer from Tunisia</h3>
-<img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/R.c072d63d5a6ada8c83abef48e223408c?rik=cLasovW%2fkBWcOQ&pid=ImgRaw&r=0">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amenmelki&label=Profile%20views&color=0e75b6&style=flat" alt="amenmelki" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amen+Allah+Melki!;" />
+</h1>
+<h3 align="center">A passionate embedded developer from Tunisia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amenmelki" alt="amenmelki" /></a> </p>
 
