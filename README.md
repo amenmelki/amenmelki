@@ -6,7 +6,7 @@
 <h3 align="center">A passionate embedded developer from Tunisia</h3>
 
 
-- 💬 Ask me about **Flutter, Dart, Python, embedded c, Robot Framework, STM32, IOT, ESP32**
+- 💬 Ask me about **Flutter, Dart, Python, embedded c, Robot Framework, STM32, IOT, ESP32 **
 
 - 📫 How to reach me **amenmelki28@gmail.com**
 
